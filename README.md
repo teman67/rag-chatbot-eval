@@ -1,2 +1,3 @@
 # rag-chatbot-eval
-My first app fincluding rag-chatbot-eval
+
+My first app using RAG, Chatbot, Including Evaluation
