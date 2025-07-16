@@ -1,0 +1,9 @@
+langchain
+qdrant-client
+sentence-transformers
+transformers
+torch
+nltk
+rouge-score
+streamlit
+python-dotenv
